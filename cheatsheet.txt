@@ -1,0 +1,16 @@
+https://www.electronjs.org/docs/latest/tutorial/quick-start
+
+# init project
+npm init
+
+# install electron
+npm install --save-dev electron
+
+# run test
+npm start
+
+# install electron forge
+npm install --save-dev @electron-forge/cli
+npx electron-forge import
+
+# npm run make
